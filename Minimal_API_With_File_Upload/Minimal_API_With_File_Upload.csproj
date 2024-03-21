@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\Uploads\" />
+    <Folder Include="wwwroot\Uploads\032024\" />
   </ItemGroup>
 
 </Project>
